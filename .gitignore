@@ -1,0 +1,13 @@
+/build
+/dist
+/node_modules
+/.idea
+/.coverage
+npm-debug.log
+*.orig
+*.swp
+*~
+*-
+*.bak
+.DS_Store
+._*
